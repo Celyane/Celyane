@@ -29,7 +29,7 @@
   - I'd love to work in a foreign country
 
 ## 📫 Contact
-   DM me on [LinkedIn](www.linkedin.com/in/célyanecolletin1)
+   DM me on [LinkedIn](https://www.linkedin.com/in/célyanecolletin1)
    
 
 
