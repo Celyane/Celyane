@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋 I'm Célyane !
 
-<!--
-**Celyane/Celyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  👨‍💻 I’m a fullstack Software Engineer specialised in PHP with Symfony
+  
+  🔭 I’m currently working on a project called Bake n taste which is a recipe site, built from scratch using symfony. 
+     Users can browse through a variety of recipes, discover new dishes, and share their own culinary creations. 
+     
+  🚀 **Stay tuned for updates as development progresses!**
 
-Here are some ideas to get you started:
+  
+  🌱 Next on my list: learning React!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📦 Toolbox
+
+  - Frontend Development: HTML, CSS, Javascript, Bootstrap
+  
+  - Version Control: Git
+    
+  - Backend Development: PHP, Laravel, Symfony, SQL, MySQLWorkbench, PhpMyAdmin
+    
+  - Others: Merise, Trello, Figma, Adobe XD,  
+
+
+## ⚡ Fun Facts
+
+  - I speak two languages fluently (French & English) and some Spanish
+  - I hated using Mac at first... Not anymore though 
+  - I'd love to work in a foreign country
+
+## 📫 Contact
+   DM me on [LinkedIn](www.linkedin.com/in/célyane-colletin-780a8a258)
+
+
