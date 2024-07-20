@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Célyane !
 
-  👨‍💻 I’m a fullstack Software Engineer specialised in PHP with Symfony
+  👨‍💻 I’m a fullstack Software Engineer studying AI programming
   
   🔭 I’m currently working on a project called Bake n taste which is a recipe site, built from scratch using symfony. 
      Users can browse through a variety of recipes, discover new dishes, and share their own culinary creations. 
