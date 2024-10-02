@@ -1,14 +1,8 @@
 ## Hi there 👋 I'm Célyane !
 
-  👨‍💻 I’m a fullstack Software Engineer studying AI programming
+  👨‍💻 I’m a fullstack Software Engineer studying programming
   
-  🔭 I’m currently working on a project called Bake n taste which is a recipe site, built from scratch using symfony. 
-     Users can browse through a variety of recipes, discover new dishes, and share their own culinary creations. 
-     
-  🚀 **Stay tuned for updates as development progresses!**
-
-  
-  🌱 Next on my list: learning React!
+  🔭 I’m currently doing my bachelor's degree.
 
 
 ## 📦 Toolbox
@@ -17,7 +11,9 @@
   
   - Version Control: Git
     
-  - Backend Development: PHP, Laravel, Symfony, SQL, MySQLWorkbench, PhpMyAdmin
+  - Backend Development: PHP, Laravel, Symfony, Python, Java
+  
+  - DB: MYSQL, MariaDB, SQL, MySQLWorkbench, PhpMyAdmin, DBeaver
     
   - Others: Merise, Trello, Figma, Adobe XD,  
 
